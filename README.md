@@ -27,6 +27,10 @@ By using `express-session` this example commits to using [server-side
 sessions][4]. An alternative would be to actually store the user session data
 in a cookie is to use [`cookie-session`][5].
 
+# Disclaimer
+
+Be careful with cookies and users data.
+
 [1]: https://www.youtube.com/watch?v=nviGhgtFbRo
 [2]: https://gist.github.com/Amasaabu/a74d7c928d2abc008b251b525cb58851
 [3]: https://github.com/Amasaabu
